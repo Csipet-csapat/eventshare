@@ -12,8 +12,8 @@ Egyeb:
  * O.T.
 
 Funkciok nagy felbontasban:
-	-Esemenyek megjelenitese a felhasznalo altal lekerdezett terido intervallumonak es parametereknek megfeleloen
-	-Esemenyek/programok ajanlasa a felhasznaloknak kulonbozo parameterek alapjan
+>-Esemenyek megjelenitese a felhasznalo altal lekerdezett terido intervallumonak es parametereknek megfeleloen
+>-Esemenyek/programok ajanlasa a felhasznaloknak kulonbozo parameterek alapjan
 	
 
 ### Felhasznalo:
