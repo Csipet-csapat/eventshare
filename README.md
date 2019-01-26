@@ -1,4 +1,4 @@
-# Eventshare:
+<img src='https://github.com/Csipet-csapat/eventshare/blob/master/img/logo.png'>
 
 An app for sharing events
 
